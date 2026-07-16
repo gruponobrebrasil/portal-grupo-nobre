@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111111">
+  <title>Portal Grupo Nobre Brasil | Nobre Distribuidora</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topo">
+  <div class="marca">
+    <img src="logo-nobre.png" alt="Nobre Distribuidora" class="logo">
+    <div>
+      <h1>GRUPO NOBRE BRASIL</h1>
+      <p>Nobre Distribuidora — Preço bom para abastecer o seu comércio.</p>
+    </div>
+  </div>
+  <div class="acoes-topo">
+    <button id="btnFavoritos">❤️</button>
+    <button id="btnRepetir">🔄</button>
+    <button id="btnCarrinho">🛒 <span id="contadorCarrinho">0</span></button>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Catálogo de produtos</h2>
+    <input id="busca" type="search" placeholder="Buscar produto...">
+    <div id="categorias" class="categorias"></div>
+  </section>
+  <div id="avisoDemo" class="aviso-demo"></div>
+  <section id="produtos" class="grade"></section>
+</main>
+
+<div id="modalProduto" class="modal">
+  <div class="modal-box modal-produto-box">
+    <button class="fechar" data-fechar="modalProduto">✕</button>
+    <div id="detalheProduto"></div>
+  </div>
+</div>
+
+<div id="modalCarrinho" class="modal">
+  <div class="modal-box carrinho-box">
+    <button class="fechar" data-fechar="modalCarrinho">✕</button>
+    <h2>Seu pedido</h2>
+    <div id="itensCarrinho"></div>
+    <div class="total">Total: <strong id="totalCarrinho">R$ 0,00</strong></div>
+    <button id="limparCarrinho" class="secundario">Limpar carrinho</button>
+    <button id="irCheckout" class="primario">Continuar</button>
+  </div>
+</div>
+
+<div id="modalCheckout" class="modal">
+  <div class="modal-box">
+    <button class="fechar" data-fechar="modalCheckout">✕</button>
+    <h2>Dados do pedido</h2>
+    <label>Nome do cliente ou comércio
+      <input id="clienteNome">
+    </label>
+    <label>Cidade ou povoado
+      <input id="clienteCidade">
+    </label>
+    <label>Forma de pagamento
+      <select id="pagamento">
+        <option>Pix</option><option>Dinheiro</option><option>Cartão</option>
+        <option>Fiado para cliente cadastrado</option>
+      </select>
+    </label>
+    <label>Tipo de recebimento
+      <select id="tipoRecebimento">
+        <option>Entrega</option><option>Retirada</option>
+      </select>
+    </label>
+    <div id="camposEntrega">
+      <label>Endereço/localidade
+        <input id="endereco">
+      </label>
+      <label>Ponto de referência
+        <input id="referencia">
+      </label>
+    </div>
+    <label>Vendedor
+      <input id="vendedor" value="Nobre Distribuidora / Atendimento">
+    </label>
+    <label>Observações
+      <textarea id="observacoes" rows="3"></textarea>
+    </label>
+    <p class="aviso">Pedido sujeito à confirmação de disponibilidade pela Nobre Distribuidora.</p>
+    <button id="revisarPedido" class="primario">Revisar pedido</button>
+  </div>
+</div>
+
+<div id="modalRevisao" class="modal">
+  <div class="modal-box">
+    <button class="fechar" data-fechar="modalRevisao">✕</button>
+    <h2>Revise seu pedido</h2>
+    <div id="resumoPedido"></div>
+    <button id="enviarWhatsApp" class="whatsapp">Confirmar e enviar pelo WhatsApp</button>
+  </div>
+</div>
+
+<script src="config.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

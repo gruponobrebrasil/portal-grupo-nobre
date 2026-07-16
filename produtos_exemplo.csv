@@ -1,0 +1,9 @@
+﻿produto,categoria,embalagem,unidades_por_embalagem,preco_normal_embalagem,preco_oferta_embalagem,oferta,oferta_inicio,oferta_fim,foto_url,disponivel,novidade,mais_vendido,ordem,limite_embalagem,limite_unidade
+Café Maratá 250 g a vácuo,Café,Fardo,20,260.0,,Não,,,,Sim,Não,Sim,1,,
+Café Maratá 250 g almofada,Café,Fardo,20,260.0,,Não,,,,Sim,Não,Sim,2,,
+Leite La Sereníssima 200 g,Leite e derivados,Caixa,40,265.0,,Não,,,,Sim,Não,Não,3,,
+Molho de tomate Quero,Mercearia,Caixa,50,63.0,,Sim,,,,Sim,Não,Não,4,,
+Creme de leite Piracanjuba,Leite e derivados,Caixa,27,79.99,,Não,,,,Sim,Não,Não,5,,
+Nescau pronto,Bebidas,Caixa,27,55.0,,Não,,,,Sim,Sim,Não,6,,
+Manteiga Delícia,Leite e derivados,Caixa,24,98.0,,Não,,,,Sim,Não,Não,7,,
+Chocobom,Mercearia,Caixa,28,39.0,,Não,,,,Sim,Não,Não,8,,
