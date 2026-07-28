@@ -75,7 +75,7 @@
     "precoUnitario": 3.28,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-006.jpeg"
+    "imagem": "images/produto-007.jpeg"
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
     "precoUnitario": 2.28,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-007.jpeg"
+    "imagem": "images/produto-008.jpeg"
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
     "precoUnitario": 4.46,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-008.jpeg"
+    "imagem": "images/produto-018.jpeg"
   },
   {
     "id": 9,
@@ -114,11 +114,11 @@
     "precoUnitario": 1.37,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-009.jpeg"
+    "imagem": "images/produto-021.jpeg"
   },
   {
     "id": 10,
-    "nome": "Achoc Nescal Pó 350G",
+    "nome": "Achocolatado Nescau em Pó 350G",
     "categoria": "Mercearia",
     "marca": "Nescau",
     "embalagem": "Caixa 36 Unidades",
@@ -127,11 +127,11 @@
     "precoUnitario": 9.9,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-010.jpeg"
+    "imagem": "images/produto-006.jpeg"
   },
   {
     "id": 11,
-    "nome": "Acucar  Cristal Blanco 1Kg",
+    "nome": "Açúcar Cristal Blanco 1Kg",
     "categoria": "Mercearia",
     "marca": "Blanco",
     "embalagem": "Fardo 30 Unidades",
@@ -140,11 +140,11 @@
     "precoUnitario": 2.83,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-011.jpeg"
+    "imagem": "images/produto-022.jpeg"
   },
   {
     "id": 12,
-    "nome": "Acucar Mana 1Kg",
+    "nome": "Açúcar Mana 1Kg",
     "categoria": "Mercearia",
     "marca": "Mana",
     "embalagem": "Fardo 30 Unidades",
@@ -153,11 +153,11 @@
     "precoUnitario": 2.8,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-012.jpeg"
+    "imagem": "images/produto-023.jpeg"
   },
   {
     "id": 13,
-    "nome": "Agua Sanitaria Clorito",
+    "nome": "Água Sanitária Clorito",
     "categoria": "Limpeza",
     "marca": "Clorito",
     "embalagem": "Caixa 12 Unidades",
@@ -166,11 +166,11 @@
     "precoUnitario": 2.0,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-013.jpeg"
+    "imagem": "images/produto-020.jpeg"
   },
   {
     "id": 14,
-    "nome": "Agua Sanitaria Nutrilar",
+    "nome": "Água Sanitária Nutrilar",
     "categoria": "Limpeza",
     "marca": "Nutrilar",
     "embalagem": "Caixa 12 Unidades",
@@ -183,7 +183,7 @@
   },
   {
     "id": 15,
-    "nome": "Agua Sanitaria Real",
+    "nome": "Água Sanitária Real",
     "categoria": "Limpeza",
     "marca": "Real",
     "embalagem": "Caixa 12 Unidades",
@@ -192,11 +192,11 @@
     "precoUnitario": 2.33,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-015.jpeg"
+    "imagem": "images/produto-024.jpeg"
   },
   {
     "id": 16,
-    "nome": "Agua Sanitaria Ype",
+    "nome": "Água Sanitária Ypê",
     "categoria": "Limpeza",
     "marca": "Ype",
     "embalagem": "Caixa 12 Unidades",
@@ -209,7 +209,7 @@
   },
   {
     "id": 17,
-    "nome": "Alcool 92,8% 500Ml",
+    "nome": "Álcool 92,8% 500Ml",
     "categoria": "Limpeza",
     "marca": "Sol",
     "embalagem": "Caixa 12 Unidades",
@@ -218,11 +218,11 @@
     "precoUnitario": 7.0,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-017.jpeg"
+    "imagem": "images/produto-025.jpeg"
   },
   {
     "id": 18,
-    "nome": "Alho N 06",
+    "nome": "Alho Nº 06",
     "categoria": "Mercearia",
     "marca": "Alho",
     "embalagem": "Caixa 6Kg",
@@ -231,7 +231,7 @@
     "precoUnitario": 28.33,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-018.jpeg"
+    "imagem": "images/produto-017.jpeg"
   },
   {
     "id": 19,
@@ -257,7 +257,7 @@
     "precoUnitario": 9.99,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-020.jpeg"
+    "imagem": null
   },
   {
     "id": 21,
@@ -270,7 +270,7 @@
     "precoUnitario": 9.99,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-021.jpeg"
+    "imagem": null
   },
   {
     "id": 22,
@@ -283,11 +283,11 @@
     "precoUnitario": 16.66,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-022.jpeg"
+    "imagem": null
   },
   {
     "id": 23,
-    "nome": "Amac Uau Conc 500Ml",
+    "nome": "Amaciante Uau Concentrado 500Ml",
     "categoria": "Limpeza",
     "marca": "Uau",
     "embalagem": "Caixa 12 Unidades",
@@ -296,11 +296,11 @@
     "precoUnitario": 5.79,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-023.jpeg"
+    "imagem": "images/produto-013.jpeg"
   },
   {
     "id": 24,
-    "nome": "Amac Ype 2Lt Delicado",
+    "nome": "Amaciante Ypê 2L Delicado",
     "categoria": "Limpeza",
     "marca": "Ype",
     "embalagem": "Caixa 6 Unidades",
@@ -309,11 +309,11 @@
     "precoUnitario": 8.99,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-024.jpeg"
+    "imagem": "images/produto-011.jpeg"
   },
   {
     "id": 25,
-    "nome": "Amac Ype Conc 500Ml",
+    "nome": "Amaciante Ypê Concentrado 500Ml",
     "categoria": "Limpeza",
     "marca": "Ype",
     "embalagem": "Caixa 12 Unidades",
@@ -322,7 +322,7 @@
     "precoUnitario": 7.25,
     "estoque": 30,
     "destaque": false,
-    "imagem": "images/produto-025.jpeg"
+    "imagem": "images/produto-015.jpeg"
   },
   {
     "id": 26,
@@ -335,7 +335,7 @@
     "precoUnitario": 1.3,
     "estoque": 50,
     "destaque": false,
-    "imagem": "images/produto-026.jpeg"
+    "imagem": "images/produto-010.jpeg"
   },
   {
     "id": 27,
@@ -413,7 +413,7 @@
     "precoUnitario": 1.17,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-032.jpeg"
+    "imagem": "images/produto-012.jpeg"
   },
   {
     "id": 33,
@@ -426,7 +426,7 @@
     "precoUnitario": 2.33,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-033.jpeg"
+    "imagem": null
   },
   {
     "id": 34,
@@ -443,7 +443,7 @@
   },
   {
     "id": 35,
-    "nome": "Bata Ondulada Farias C/Cebo/Salsa 30Gm",
+    "nome": "Batata Ondulada Farias Cebola e Salsa 30G",
     "categoria": "Biscoitos e Snacks",
     "marca": "Farias",
     "embalagem": "Caixa 24 Unidades",
@@ -452,11 +452,11 @@
     "precoUnitario": 2.0,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-035.jpeg"
+    "imagem": "images/produto-009.jpeg"
   },
   {
     "id": 36,
-    "nome": "Bata Ondul Farias Lisa Nat 30G",
+    "nome": "Batata Ondulada Farias Lisa 30G",
     "categoria": "Biscoitos e Snacks",
     "marca": "Farias",
     "embalagem": "Caixa 24 Unidades",
@@ -465,7 +465,7 @@
     "precoUnitario": 2.0,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-036.jpeg"
+    "imagem": "images/produto-033.jpeg"
   },
   {
     "id": 37,
@@ -482,7 +482,7 @@
   },
   {
     "id": 38,
-    "nome": "Bata Ondul Fritisco 40G",
+    "nome": "Batata Ondulada Fritisco 40G",
     "categoria": "Biscoitos e Snacks",
     "marca": "Fritisco",
     "embalagem": "Caixa 24 Unidades",
@@ -491,11 +491,11 @@
     "precoUnitario": 1.71,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-038.jpeg"
+    "imagem": "images/produto-032.jpeg"
   },
   {
     "id": 39,
-    "nome": "Baygon Era Acao Totaol",
+    "nome": "Baygon Ação Total",
     "categoria": "Mercearia",
     "marca": "Baygon",
     "embalagem": "Caixa 12 Unidades",
@@ -504,7 +504,7 @@
     "precoUnitario": 12.42,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-039.jpeg"
+    "imagem": "images/produto-036.jpeg"
   },
   {
     "id": 40,
@@ -517,7 +517,7 @@
     "precoUnitario": 7.5,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-040.jpeg"
+    "imagem": "images/produto-041.jpeg"
   },
   {
     "id": 41,
@@ -530,11 +530,11 @@
     "precoUnitario": 8.0,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-041.jpeg"
+    "imagem": "images/produto-038.jpeg"
   },
   {
     "id": 42,
-    "nome": "Bisc Cream Crac Estrela 400G",
+    "nome": "Biscoito Cream Cracker Estrela 400G",
     "categoria": "Biscoitos e Snacks",
     "marca": "Estrla",
     "embalagem": "Caixa 24 Unidades",
@@ -543,7 +543,7 @@
     "precoUnitario": 4.92,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-042.jpeg"
+    "imagem": "images/produto-043.jpeg"
   },
   {
     "id": 43,
@@ -556,7 +556,7 @@
     "precoUnitario": 5.75,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-043.jpeg"
+    "imagem": null
   },
   {
     "id": 44,
@@ -569,11 +569,11 @@
     "precoUnitario": 2.44,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-044.jpeg"
+    "imagem": null
   },
   {
     "id": 45,
-    "nome": "Bisc Nik Gran Morango 120G",
+    "nome": "Biscoito Nikito Morango 120G",
     "categoria": "Biscoitos e Snacks",
     "marca": "Nikito",
     "embalagem": "Caixa 36 Unidades",
@@ -582,11 +582,11 @@
     "precoUnitario": 2.44,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-045.jpeg"
+    "imagem": "images/produto-042.jpeg"
   },
   {
     "id": 46,
-    "nome": "Bisc  Nikito Peq Chocolate 51,6G",
+    "nome": "Biscoito Nikito Chocolate 51,6G",
     "categoria": "Biscoitos e Snacks",
     "marca": "Nikito",
     "embalagem": "Caixa 40 Unidades",
@@ -595,7 +595,7 @@
     "precoUnitario": 1.35,
     "estoque": 20,
     "destaque": false,
-    "imagem": null
+    "imagem": "images/produto-045.jpeg"
   },
   {
     "id": 47,
@@ -608,7 +608,7 @@
     "precoUnitario": 2.0,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-047.jpeg"
+    "imagem": "images/produto-048.jpeg"
   },
   {
     "id": 48,
@@ -621,7 +621,7 @@
     "precoUnitario": 1.43,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-048.jpeg"
+    "imagem": "images/produto-044.jpeg"
   },
   {
     "id": 49,
@@ -647,24 +647,11 @@
     "precoUnitario": 4.1,
     "estoque": 30,
     "destaque": false,
-    "imagem": null
+    "imagem": "images/produto-047.jpeg"
   },
   {
     "id": 51,
-    "nome": "Cafe Santa Clara 250G Almof",
-    "categoria": "Cafés",
-    "marca": "Café",
-    "embalagem": "Caixa 20 Unidades",
-    "quantidade": 20,
-    "preco": 270.0,
-    "precoUnitario": 13.5,
-    "estoque": 30,
-    "destaque": false,
-    "imagem": "images/produto-051.jpeg"
-  },
-  {
-    "id": 52,
-    "nome": "Café Santa Clara 250G Avaco",
+    "nome": "Café Santa Clara 250G Almofada",
     "categoria": "Cafés",
     "marca": "Café",
     "embalagem": "Caixa 20 Unidades",
@@ -674,6 +661,19 @@
     "estoque": 30,
     "destaque": false,
     "imagem": "images/produto-052.jpeg"
+  },
+  {
+    "id": 52,
+    "nome": "Café Santa Clara 250G a Vácuo",
+    "categoria": "Cafés",
+    "marca": "Café",
+    "embalagem": "Caixa 20 Unidades",
+    "quantidade": 20,
+    "preco": 270.0,
+    "precoUnitario": 13.5,
+    "estoque": 30,
+    "destaque": false,
+    "imagem": "images/produto-051.jpeg"
   },
   {
     "id": 53,
@@ -712,7 +712,7 @@
     "precoUnitario": 1.65,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-055.jpeg"
+    "imagem": null
   },
   {
     "id": 56,
@@ -751,7 +751,7 @@
     "precoUnitario": 12.83,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-058.jpeg"
+    "imagem": null
   },
   {
     "id": 59,
@@ -777,7 +777,7 @@
     "precoUnitario": 4.33,
     "estoque": 20,
     "destaque": false,
-    "imagem": null
+    "imagem": "images/produto-061.jpeg"
   },
   {
     "id": 61,
@@ -790,11 +790,11 @@
     "precoUnitario": 1.62,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-061.jpeg"
+    "imagem": "images/produto-058.jpeg"
   },
   {
     "id": 62,
-    "nome": "Det Ype 500Ml",
+    "nome": "Detergente Ypê 500Ml",
     "categoria": "Limpeza",
     "marca": "Ype",
     "embalagem": "Caixa 24 Unidades",
@@ -803,7 +803,7 @@
     "precoUnitario": 2.29,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-062.jpeg"
+    "imagem": "images/produto-068.jpeg"
   },
   {
     "id": 63,
@@ -881,11 +881,11 @@
     "precoUnitario": 3.92,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-068.jpeg"
+    "imagem": null
   },
   {
     "id": 69,
-    "nome": "Leite Cond Piracanjuba 395G",
+    "nome": "Leite Condensado Piracanjuba 395G",
     "categoria": "Leites e Derivados",
     "marca": "Piracanjuba",
     "embalagem": "Caixa 27 Unidades",
@@ -894,11 +894,11 @@
     "precoUnitario": 6.11,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-069.jpeg"
+    "imagem": "images/produto-070.jpeg"
   },
   {
     "id": 70,
-    "nome": "Leite Molico Desn 280G",
+    "nome": "Leite Molico Desnatado 280G",
     "categoria": "Leites e Derivados",
     "marca": "Molico",
     "embalagem": "Caixa 24 Unidades",
@@ -907,7 +907,7 @@
     "precoUnitario": 19.99,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-070.jpeg"
+    "imagem": "images/produto-062.jpeg"
   },
   {
     "id": 71,
@@ -920,11 +920,11 @@
     "precoUnitario": 17.83,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-071.jpeg"
+    "imagem": "images/produto-069.jpeg"
   },
   {
     "id": 72,
-    "nome": "Limpa Aluminiu 500Ml",
+    "nome": "Limpa Alumínio Nutrilar 500Ml",
     "categoria": "Limpeza",
     "marca": "Nutrilar",
     "embalagem": "Caixa 24 Unidades",
@@ -933,7 +933,7 @@
     "precoUnitario": 1.92,
     "estoque": 20,
     "destaque": false,
-    "imagem": null
+    "imagem": "images/produto-074.jpeg"
   },
   {
     "id": 73,
@@ -959,11 +959,11 @@
     "precoUnitario": 5.75,
     "estoque": 20,
     "destaque": false,
-    "imagem": "images/produto-074.jpeg"
+    "imagem": "images/produto-071.jpeg"
   },
   {
     "id": 75,
-    "nome": "Massa Pronta Tapi.Amafil 1Kg",
+    "nome": "Massa Pronta para Tapioca Amafil 1Kg",
     "categoria": "Mercearia",
     "marca": "Amafil",
     "embalagem": "Caixa 10 Unidades",
@@ -976,7 +976,7 @@
   },
   {
     "id": 76,
-    "nome": "Massa Pronta Tapi.Amafil 500G",
+    "nome": "Massa Pronta para Tapioca Amafil 500G",
     "categoria": "Mercearia",
     "marca": "Amafil",
     "embalagem": "Caixa 21 Unidades",
@@ -989,7 +989,7 @@
   },
   {
     "id": 77,
-    "nome": "Mist Bolo Marata 400G",
+    "nome": "Mistura para Bolo Maratá 400G",
     "categoria": "Mercearia",
     "marca": "Marata",
     "embalagem": "Caixa 12 Unidades",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": 79,
-    "nome": "Nescafe Dolca Shs 40G",
+    "nome": "Nescafé Tradição Forte",
     "categoria": "Cafés",
     "marca": "Nescafe",
     "embalagem": "Caixa 24 Unidades",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": 80,
-    "nome": "Oleo Soja Abc 900Ml",
+    "nome": "Óleo de Soja ABC 900Ml",
     "categoria": "Mercearia",
     "marca": "Abc",
     "embalagem": "Caixa 20 Unidades",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 81,
-    "nome": "Oleo Soja Sinha Pet 900Ml",
+    "nome": "Óleo de Soja Sinhá 900Ml",
     "categoria": "Mercearia",
     "marca": "Sinha",
     "embalagem": "Caixa 20 Unidades",
@@ -1054,7 +1054,7 @@
   },
   {
     "id": 82,
-    "nome": "Ovos Ctl",
+    "nome": "Ovos",
     "categoria": "Mercearia",
     "marca": "Pleno",
     "embalagem": "Cartela 30 Unidades",
@@ -1067,7 +1067,7 @@
   },
   {
     "id": 83,
-    "nome": "Papel Hig Max",
+    "nome": "Papel Higiênico Max",
     "categoria": "Higiene e Perfumaria",
     "marca": "Max",
     "embalagem": "Caixa 16 Unidades",
