@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#111111">
+<title>Grupo Nobre Brasil | Catálogo</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><img src="logo-nobre.png" alt="Grupo Nobre Brasil"><div><strong>GRUPO NOBRE BRASIL</strong><span>Nobre Distribuidora</span></div></div>
+  <button id="cartBtn" class="cart-btn">🛒 Pedido <b id="cartCount">0</b></button>
+</header>
+
+<section class="hero">
+  <div class="hero-content">
+    <p class="eyebrow">ATACADO PARA O SEU COMÉRCIO</p>
+    <h1>Preço bom, variedade e praticidade.</h1>
+    <p>Consulte os produtos, monte seu pedido e envie direto para nosso WhatsApp.</p>
+    <div class="search"><span>🔎</span><input id="search" placeholder="Buscar produto ou marca..."></div>
+  </div>
+</section>
+
+<main>
+  <section class="stats">
+    <div><b id="productTotal">0</b><span>produtos</span></div>
+    <div><b id="categoryTotal">0</b><span>categorias</span></div>
+    <div><b>WhatsApp</b><span>pedido rápido</span></div>
+  </section>
+
+  <section class="catalog-head">
+    <div><p class="eyebrow dark">NOSSO CATÁLOGO</p><h2>Escolha seus produtos</h2></div>
+    <select id="sort"><option value="default">Ordenar</option><option value="name">Nome A–Z</option><option value="low">Menor preço</option><option value="high">Maior preço</option></select>
+  </section>
+  <div id="categories" class="categories"></div>
+  <section id="products" class="grid"></section>
+</main>
+
+<aside id="drawer" class="drawer">
+  <div class="drawer-head"><h2>Seu pedido</h2><button id="closeCart">✕</button></div>
+  <div id="cartItems" class="cart-items"></div>
+  <div class="drawer-foot">
+    <div class="total"><span>Total estimado</span><b id="cartTotal">R$ 0,00</b></div>
+    <p>Valores e disponibilidade sujeitos à confirmação.</p>
+    <button id="sendOrder" class="whatsapp">Enviar pedido no WhatsApp</button>
+    <button id="clearCart" class="clear">Limpar pedido</button>
+  </div>
+</aside>
+<div id="overlay" class="overlay"></div>
+
+<footer><img src="logo-nobre.png" alt=""><p><b>Grupo Nobre Brasil</b><br>Nobre Distribuidora</p><a href="https://wa.me/5598984772841">WhatsApp: (98) 98477-2841</a></footer>
+<script src="script.js"></script>
+</body></html>
